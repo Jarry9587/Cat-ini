@@ -347,7 +347,7 @@ proxy-groups:
 rules:
 
   - RULE-SET,Test测试 / Domain,Test测试
-  - RULE-SET,Block拦截 / Domain,Block
+  - RULE-SET,Block拦截 / Domain,Block拦截
   - RULE-SET,ChatGPT / Domain,ChatGPT
   - RULE-SET,Claude / Domain,Claude
   - RULE-SET,Meta AI / Domain,Meta AI
