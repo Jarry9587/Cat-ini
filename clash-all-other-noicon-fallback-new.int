@@ -37,7 +37,7 @@ ruleset=Apple,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_ru
 ruleset=Microsoft,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
 ruleset=Google,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Google/Google.list
 ruleset=BiliBili,https://gh-proxy.org/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/bilibili.list
-ruleset=Air机场,https://gh-proxy.com/raw.githubusercontent.com/Jarry9587/Cat-ini/refs/heads/main/1.list
+ruleset=Air机场,https://raw.githubusercontent.com/Jarry9587/Cat-ini/refs/heads/main/1.list
 
 
 
