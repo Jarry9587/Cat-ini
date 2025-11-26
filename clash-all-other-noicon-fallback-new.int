@@ -38,7 +38,7 @@ ruleset=Microsoft,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/io
 ruleset=Google,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Google/Google.list
 ruleset=BiliBili,https://gh-proxy.org/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/bilibili.list
 ruleset=Air国外机场,https://gh-proxy.org/raw.githubusercontent.com/Jarry9587/Cat-ini/refs/heads/main/1.list
-ruleset=Air国内机场,https://gh-proxy.org/raw.githubusercontent.com/Jarry9587/Cat-ini/refs/heads/main/2.txt
+ruleset=Air国内机场,https://gh-proxy.org/raw.githubusercontent.com/Jarry9587/Cat-ini/refs/heads/main/2.list
 
 ruleset=国外,https://gh-proxy.com/raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Proxy.list
 ruleset=国外,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list
